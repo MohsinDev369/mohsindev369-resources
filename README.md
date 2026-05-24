@@ -11,8 +11,19 @@ Each folder is one product. The actual product file lives on LemonSqueezy. This 
 1. Create a new folder: `your-product-slug/`
 2. Add `resource.json` inside it (see schema below)
 3. Optionally add a `cover.png` (1200x630px recommended)
-4. Push to `main`
-5. Redeploy the site on Vercel — the new product appears automatically
+4. **Add the slug to `manifest.json`** at the repo root — the site reads this file to discover products
+5. Push to `main`
+6. Redeploy the site on Vercel, the new product appears automatically
+
+### Why a manifest?
+
+The site loads products via `raw.githubusercontent.com` (GitHub's CDN), not the GitHub REST API. This avoids the 5000 req/hr authenticated rate limit entirely, no token needed. The trade-off: we can't list folders dynamically, so `manifest.json` tells the site which slugs exist.
+
+```json
+{
+  "resources": ["ai-cheat-sheet", "your-new-product-slug"]
+}
+```
 
 ---
 
