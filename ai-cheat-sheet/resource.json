@@ -1,0 +1,107 @@
+{
+  "id": "ai-cheat-sheet",
+  "title": "AI Cheat Sheet for Business Owners",
+  "description": "Copy-paste prompts, frameworks, and best practices for ChatGPT, Claude & Gemini. 2-page quick reference card.",
+  "longDescription": "78% of businesses use AI. Most see no measurable result. This cheat sheet covers the exact techniques that separate high-output users from everyone else. Works across ChatGPT, Claude, and Gemini.",
+  "price": "Free",
+  "priceNote": "Pay what you want",
+  "format": "PDF, 2 pages",
+  "tags": ["AI", "Prompts", "Business", "ChatGPT", "Claude", "Gemini"],
+  "featured": true,
+  "order": 1,
+  "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/9dd55648-efef-4cb8-bc87-bf56fab56722",
+  "relatedBlog": "/blog/ai-best-practices-cheat-sheet-business-owners-2026",
+  "contentSummary": [
+    "PTCF framework for any AI prompt",
+    "6 copy-paste email & social templates",
+    "ChatGPT vs Claude vs Gemini breakdown",
+    "3 mistakes that kill AI results"
+  ],
+  "previewItems": [
+    {
+      "label": "PTCF",
+      "text": "Every prompt needs Persona, Task, Context, Format. Skip one and the output suffers. This single framework fixes 80% of bad AI results."
+    },
+    {
+      "label": "Rule #1",
+      "text": "Tell it what to do, not what to avoid. Instead of \"don't make it salesy\" say \"write in an educational, consultative tone.\""
+    }
+  ],
+  "whatsInside": [
+    "The PTCF framework: the fastest way to structure any AI prompt",
+    "Chain-of-thought technique for complex business decisions",
+    "Platform comparison: when to use ChatGPT vs Claude vs Gemini",
+    "6 copy-paste templates for emails, social media, proposals, and more",
+    "3 mistakes that kill AI results (including the Samsung data leak story)",
+    "Context window basics and why they change how you prompt",
+    "Quick-reference rules that work across all major AI tools",
+    "Key stats: what the research actually says about AI ROI"
+  ],
+  "previewTips": [
+    {
+      "label": "Rule #1",
+      "tip": "Tell it what to do, not what to avoid. Instead of \"don't make it salesy\" say \"write in an educational, consultative tone focused on solving the reader's problem.\""
+    },
+    {
+      "label": "PTCF",
+      "tip": "Every important prompt needs four things: Persona, Task, Context, Format. Skip any one and the output suffers. This single framework fixes 80% of bad AI results."
+    },
+    {
+      "label": "Chain of Thought",
+      "tip": "Add \"Think through this step by step before answering\" to any analytical request. Works on every platform, no setup needed. Forces visible reasoning and reduces errors."
+    }
+  ],
+  "whoIsItFor": [
+    "Business owners using ChatGPT, Claude, or Gemini daily",
+    "Teams who want consistent output from AI across the company",
+    "Anyone who has been disappointed with AI results",
+    "Managers building AI into their company workflows"
+  ],
+  "faq": [
+    {
+      "q": "Is it really free?",
+      "a": "Yes. Download at no cost. If you find it useful, pay what you think it's worth through the checkout, including $0. No paywall, no email required."
+    },
+    {
+      "q": "What format is the download?",
+      "a": "PDF, designed to be printed or kept open on a second screen. 2 pages, optimized for readability at A4 and letter size."
+    },
+    {
+      "q": "Does this work with ChatGPT, Claude, and Gemini?",
+      "a": "Yes. Every technique and template was tested across all three. Where there are platform differences, they are noted explicitly."
+    },
+    {
+      "q": "Do I need technical knowledge?",
+      "a": "No. The cheat sheet is written for business owners, not developers. No coding, no API access, just the chat interface you already use."
+    },
+    {
+      "q": "Can I share this with my team?",
+      "a": "Yes, share freely within your company. For public redistribution or commercial use, get in touch first."
+    },
+    {
+      "q": "What is the PTCF framework?",
+      "a": "PTCF stands for Persona, Task, Context, Format. It is a four-part structure for writing AI prompts that consistently produces better output than unstructured requests. The cheat sheet explains each part with business examples."
+    }
+  ],
+  "seo": {
+    "title": "AI Cheat Sheet for Business Owners: Free Download (ChatGPT, Claude & Gemini 2026)",
+    "description": "Free 2-page AI cheat sheet for business owners. Covers the PTCF framework, copy-paste prompt templates, ChatGPT vs Claude vs Gemini comparison, and the 3 mistakes that kill AI results.",
+    "schemaDescription": "Free 2-page printable cheat sheet covering the PTCF framework, 6 copy-paste prompt templates, platform comparison for ChatGPT, Claude and Gemini, and the most common AI mistakes business owners make.",
+    "keywords": [
+      "AI cheat sheet for business owners",
+      "free AI cheat sheet download",
+      "AI prompt cheat sheet PDF",
+      "ChatGPT cheat sheet for business",
+      "Claude prompt guide business",
+      "Gemini prompts for business owners",
+      "PTCF prompting framework",
+      "prompt engineering cheat sheet 2026",
+      "free AI guide small business",
+      "how to use AI for business",
+      "best AI prompts for business owners free",
+      "ChatGPT Claude Gemini comparison business",
+      "AI productivity cheat sheet PDF free download",
+      "free AI best practices guide 2026"
+    ]
+  }
+}
