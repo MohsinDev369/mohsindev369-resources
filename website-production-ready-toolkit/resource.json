@@ -1,0 +1,102 @@
+{
+  "id": "website-production-ready-toolkit",
+  "title": "Website Production Ready Toolkit",
+  "description": "49-item expert checklist with impact scores, copy-paste JSON-LD templates, before/after examples, and a client-facing version. Everything a domain expert checks before hitting deploy.",
+  "longDescription": "Most websites launch missing critical items that quietly kill rankings, conversions, and trust. This toolkit covers everything from user profiling and color psychology to schema markup and Core Web Vitals, with an impact score on every item so you know exactly what to fix first.",
+  "price": "$9",
+  "priceNote": "One-time purchase",
+  "format": "PDF, 12 pages",
+  "tags": ["SEO", "Web Dev", "Checklist", "Schema", "Performance", "Freelancers"],
+  "featured": true,
+  "order": 2,
+  "downloadUrl": "LEMONSQUEEZY_URL_PLACEHOLDER",
+  "images": ["preview-1.png", "preview-2.png"],
+  "contentSummary": [
+    "Impact score on every item",
+    "Copy-paste JSON-LD templates",
+    "Before/after examples",
+    "Client-facing version included"
+  ],
+  "previewItems": [
+    {
+      "label": "Scoring",
+      "text": "Every item scored 1-10 by impact. Total your score out of 365. Know exactly what to fix first, not just what to check."
+    },
+    {
+      "label": "Schema LD",
+      "text": "Copy-paste JSON-LD templates for Organization, Article, and Product. Validate with Google Rich Results Test before deploying."
+    }
+  ],
+  "whatsInside": [
+    "49 checklist items across 9 sections, each with an impact score (1-10)",
+    "Expert explanation of the WHY behind every item, not just what to do",
+    "Tool recommendation per item so you know exactly what to use",
+    "Before/after examples for the non-obvious items (robots.txt, OG images, LCP)",
+    "Copy-paste JSON-LD templates for Organization, Article, and Product schemas",
+    "Color psychology table: which palette to pick based on your audience",
+    "Site score calculator out of 365 with priority ranking system",
+    "Client-facing version written in plain English, ready to send",
+    "2026 updates: INP replaces FID, FAQPage schema restrictions, AI visibility via schema"
+  ],
+  "previewTips": [
+    {
+      "label": "User Profiling",
+      "tip": "Before picking a single color or font, define who lands on the page. A B2B SaaS targeting CTOs needs to feel different from a local bakery. Get this wrong and every downstream decision compounds the mistake."
+    },
+    {
+      "label": "Schema",
+      "tip": "FAQPage schema is restricted to government and health sites as of 2025. Most agencies still use it and wonder why their rich results disappeared. Remove it if you have it."
+    },
+    {
+      "label": "LCP Fix",
+      "tip": "Preload your hero image with <link rel='preload' as='image'> in the document head. This single change drops LCP by 300-800ms on most sites."
+    }
+  ],
+  "whoIsItFor": [
+    "Freelance web developers who want to deliver better work",
+    "Agencies building sites for clients who care about results",
+    "Business owners auditing their existing website",
+    "Developers who want to add SEO and performance expertise to their skillset"
+  ],
+  "faq": [
+    {
+      "q": "Is this just another generic checklist?",
+      "a": "No. Every item has an impact score (1-10), a tool recommendation, and an expert explanation of why it matters. Several items include before/after examples showing exactly what wrong looks like vs correct."
+    },
+    {
+      "q": "What format is the download?",
+      "a": "PDF, 12 pages. Designed to be printed or kept open alongside your work. Optimized for A4 at full resolution."
+    },
+    {
+      "q": "Is this up to date for 2026?",
+      "a": "Yes. Covers INP (which replaced FID as a Core Web Vital in March 2024), the 2025 FAQPage schema restrictions, and how schema markup now affects AI Overview visibility."
+    },
+    {
+      "q": "Can I use this for client projects?",
+      "a": "Yes. The toolkit includes a client-facing version written in plain English with no jargon, ready to send to clients to justify your recommendations."
+    },
+    {
+      "q": "What is the scoring system?",
+      "a": "Each item has an impact score from 1 to 10. The maximum total score is 365. You tally your score as you work through the checklist and compare against four rating tiers: launch-ready (90%+), strong (75-89%), decent but gaps (60-74%), and not ready (below 60%)."
+    }
+  ],
+  "seo": {
+    "title": "Website Production Ready Toolkit: 49-Item Expert Checklist with Impact Scores",
+    "description": "Expert website launch checklist with impact scores, JSON-LD templates, before/after examples, and a client-facing version. Covers SEO, schema markup, Core Web Vitals, and more.",
+    "schemaDescription": "A 12-page expert website production checklist covering 49 items across 9 sections. Includes impact scores, copy-paste JSON-LD schema templates, before/after examples, a site score calculator, and a plain-English client-facing version.",
+    "keywords": [
+      "website production checklist",
+      "website launch checklist 2026",
+      "SEO checklist for developers",
+      "schema markup checklist",
+      "JSON-LD templates",
+      "Core Web Vitals checklist",
+      "website audit checklist",
+      "web developer checklist PDF",
+      "schema LD implementation guide",
+      "rich results checklist",
+      "website go live checklist",
+      "technical SEO checklist freelancer"
+    ]
+  }
+}
