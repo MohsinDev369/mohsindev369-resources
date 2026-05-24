@@ -43,6 +43,7 @@ The site loads products via `raw.githubusercontent.com` (GitHub's CDN), not the 
   "order": 2,
   "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/YOUR_CHECKOUT_ID",
   "relatedBlog": "/blog/your-blog-slug",
+  "images": ["cover.png", "page2.png", "page3.png"],
 
   "contentSummary": [
     "Bullet point shown on listing card (keep under 6 words)",
@@ -91,6 +92,7 @@ The site loads products via `raw.githubusercontent.com` (GitHub's CDN), not the 
 | `order` | no | Lower number = appears first on listing page |
 | `relatedBlog` | no | Omit if no related blog post |
 | `format` | no | e.g. "PDF, 2 pages" or "PDF + HTML checklist" |
+| `images` | no | Array of image filenames in this folder. First = listing card thumbnail. All shown as gallery on detail page. |
 | `featured` | no | Reserved for future use |
 | `previewTips` | no | Omit array if no tips to show |
 | `whoIsItFor` | no | Omit array if not applicable |
