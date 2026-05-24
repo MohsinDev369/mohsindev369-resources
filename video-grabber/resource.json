@@ -1,0 +1,53 @@
+{
+  "id": "video-grabber",
+  "title": "Video Grabber",
+  "description": "Detect and download videos from any website — streams, MP4s, and more. Free Chrome extension.",
+  "longDescription": "Video Grabber is a free Chrome extension that automatically detects videos as they load on any page. Whether it's a news stream, sports broadcast, educational video, or social media clip, Video Grabber gives you one-click access to download it — in the best available resolution, with optional clip trimming, file renaming, and pause/resume support.",
+  "price": "Free",
+  "priceNote": "Pay what you want, no subscription",
+  "format": "Chrome Extension",
+  "tags": ["chrome-extension", "video", "download", "productivity", "free"],
+  "featured": false,
+  "order": 3,
+  "downloadUrl": "https://chromewebstore.google.com/detail/onnglklcnofplgoalieidnfbgiemihpp",
+  "relatedBlog": "/blog/video-grabber-chrome-extension-2026",
+  "contentSummary": [
+    "Auto-detects videos on any site",
+    "Streams, MP4s, and more",
+    "Custom clip length & renaming",
+    "Pause, resume, multi-resolution"
+  ],
+  "previewItems": [
+    { "label": "Works on", "text": "News, sports, social media, educational platforms and more" },
+    { "label": "Download modes", "text": "Full video, custom clip, or direct MP4 grab" }
+  ],
+  "whatsInside": [
+    "Automatic video detection as content loads on any webpage",
+    "Support for live streams, HLS, and direct MP4/video file URLs",
+    "Clip creation with custom start/end time selection",
+    "Multiple resolution options when available",
+    "File renaming before download",
+    "Pause and resume downloads",
+    "Customizable default download folder"
+  ],
+  "previewTips": [
+    { "label": "Tip", "tip": "Open the extension popup while a video is playing to see all detected sources instantly" },
+    { "label": "Pro tip", "tip": "Use the clip feature to grab only the highlight you need instead of the full video" }
+  ],
+  "whoIsItFor": [
+    "Content creators who need offline reference clips",
+    "Developers testing video playback across resolutions",
+    "Anyone archiving educational or sports content",
+    "Researchers saving media for offline review"
+  ],
+  "faq": [
+    { "q": "Does it work on YouTube?", "a": "Due to platform restrictions, YouTube is not supported. It works on most other sites with embedded or streamed video." },
+    { "q": "Is it really free?", "a": "Yes. There's an optional pay-what-you-want one-time license if you want to support the project, but all features are free." },
+    { "q": "Does it collect my data?", "a": "No. The extension does not collect, store, or share any user data." }
+  ],
+  "seo": {
+    "title": "Video Grabber — Free Chrome Extension to Download Videos",
+    "description": "Detect and download videos from any website with Video Grabber. Free Chrome extension supporting streams, MP4s, clip creation, and multiple resolutions.",
+    "keywords": ["video downloader chrome extension", "download video from any website", "stream downloader", "free video grabber", "chrome extension video download"]
+  }
+}
