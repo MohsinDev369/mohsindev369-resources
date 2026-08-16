@@ -1,0 +1,93 @@
+{
+  "id": "keel-nextjs-saas-starter-kit",
+  "title": "Keel: Next.js SaaS Starter Kit",
+  "description": "Production-ready Next.js SaaS starter with auth, billing, teams, and admin tooling built in. Ship your product in days, not months.",
+  "longDescription": "Keel is a production-ready Next.js 16 SaaS foundation so you stop rebuilding the same boilerplate on every new project. Auth (sessions and OAuth), Stripe subscriptions and webhooks, teams with roles and invites, an AI SDK with a credit system, and Postgres with Drizzle migrations, wired up and ready to scaffold with one command.",
+  "price": "$199+",
+  "priceNote": "One-time purchase, 3 license tiers from $199 to $899",
+  "format": "Source code (Next.js 16, TypeScript)",
+  "tags": ["Next.js", "SaaS", "Starter Kit", "TypeScript", "Stripe", "Boilerplate"],
+  "featured": true,
+  "order": 0,
+  "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/ed6daa39-cd43-4ba4-bf14-1103990c2977",
+  "images": [],
+  "contentSummary": [
+    "Auth: sessions + OAuth built in",
+    "Stripe subscriptions + webhooks wired up",
+    "Teams with roles and invites",
+    "AI SDK with a credit system",
+    "Postgres + Drizzle migrations"
+  ],
+  "previewItems": [
+    {
+      "label": "Scaffold",
+      "text": "npx create-keel-app scaffolds a full Next.js 16 + TypeScript foundation with auth, billing, teams, and a real dashboard already wired together."
+    },
+    {
+      "label": "Billing",
+      "text": "Stripe subscriptions and webhooks are already integrated, not left as a TODO you have to wire up yourself before you can charge anyone."
+    }
+  ],
+  "whatsInside": [
+    "Next.js 16 + TypeScript foundation, type-safe end to end",
+    "Auth: sessions and OAuth",
+    "Stripe subscriptions and webhooks",
+    "Teams: roles and invites",
+    "AI SDK with a built-in credit system",
+    "Postgres + Drizzle ORM migrations",
+    "A real dashboard, not a placeholder screen"
+  ],
+  "previewTips": [
+    {
+      "label": "Solo tier",
+      "tip": "A one-time source code snapshot. Right fit if you're shipping a single project and don't need ongoing updates to the kit itself."
+    },
+    {
+      "label": "Studio tier",
+      "tip": "Adds private repo access with ongoing updates via git pull, so your foundation keeps improving after you've built on top of it."
+    },
+    {
+      "label": "Agency tier",
+      "tip": "Everything in Studio, plus multi-project use and white-label rights, for building on Keel across multiple client or product codebases."
+    }
+  ],
+  "whoIsItFor": [
+    "Founders who want to skip SaaS boilerplate and start on the actual product",
+    "Freelance developers who build SaaS MVPs for clients and want a faster starting point",
+    "Small teams shipping one active SaaS project (Studio tier)",
+    "Agencies building on the same foundation across multiple client projects (Agency tier)"
+  ],
+  "faq": [
+    {
+      "q": "What's the difference between the three tiers?",
+      "a": "Solo ($199) is a one-time source code snapshot for a single project. Studio ($349) adds private repo access with ongoing updates via git pull, best if you're actively shipping one project. Agency ($899) includes everything in Studio plus multi-project use and white-label rights."
+    },
+    {
+      "q": "What's actually included in the codebase?",
+      "a": "A Next.js 16 + TypeScript foundation with auth (sessions and OAuth), Stripe subscriptions and webhooks, teams with roles and invites, an AI SDK with a credit system, and Postgres with Drizzle migrations."
+    },
+    {
+      "q": "Do I need to be an expert to use it?",
+      "a": "You should be comfortable with Next.js and TypeScript. Keel gives you a wired-up foundation, not a no-code tool, you're still writing your product on top of it."
+    },
+    {
+      "q": "Can I use this for client projects?",
+      "a": "Yes, on the Agency tier, which covers multi-project and white-label use. Solo and Studio are licensed for a single project."
+    }
+  ],
+  "seo": {
+    "title": "Keel: Next.js SaaS Starter Kit with Auth, Billing, and Teams Built In",
+    "description": "Production-ready Next.js 16 SaaS starter kit: auth, Stripe billing, teams, AI SDK, and Postgres migrations built in. Ship your SaaS in days, not months.",
+    "schemaDescription": "A production-ready Next.js 16 SaaS starter kit with authentication, Stripe subscription billing, team management, an AI SDK with credit system, and Postgres/Drizzle migrations built in.",
+    "keywords": [
+      "Next.js SaaS starter kit",
+      "Next.js boilerplate",
+      "SaaS starter kit TypeScript",
+      "Next.js Stripe boilerplate",
+      "SaaS boilerplate with auth and billing",
+      "Next.js 16 starter kit",
+      "SaaS starter kit for founders",
+      "Next.js team dashboard starter"
+    ]
+  }
+}
