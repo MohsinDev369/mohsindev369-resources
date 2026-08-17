@@ -10,7 +10,7 @@
   "featured": true,
   "order": 0,
   "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/ed6daa39-cd43-4ba4-bf14-1103990c2977",
-  "images": [],
+  "images": ["preview-1.jpg"],
   "contentSummary": [
     "Auth: sessions + OAuth built in",
     "Stripe subscriptions + webhooks wired up",
