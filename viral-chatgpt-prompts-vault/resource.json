@@ -1,0 +1,88 @@
+{
+  "id": "viral-chatgpt-prompts-vault",
+  "title": "The Viral Prompt Vault: 50 More ChatGPT Prompts + 7-Day Tracker",
+  "description": "The companion to '21 ChatGPT Prompts That Actually Go Viral.' 50 more copy-paste prompts across 5 job-based categories, plus a printable 7-day challenge tracker.",
+  "longDescription": "You read the 21 free prompts. These are the other 50, organized by exactly what you're trying to do: write a hook, build a story, spark controversy, format for a specific platform, or chain prompts into a full content system. Every prompt is copy-paste ready with a one-line 'why it works' so you're not just collecting prompts, you're learning the pattern. Comes with a printable 7-Day Viral Challenge Tracker so you actually use it instead of letting it sit in a downloads folder.",
+  "price": "$9",
+  "priceNote": "One-time purchase",
+  "format": "PDF, 9 pages",
+  "tags": ["AI", "Prompts", "ChatGPT", "Social Media", "Content Creation", "Marketing"],
+  "featured": false,
+  "order": 4,
+  "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/8bfdf8e2-f7fe-4c62-8e4f-dd91ae8d2bc3",
+  "relatedBlog": "/blog/chatgpt-secret-prompts-go-viral",
+  "contentSummary": [
+    "50 prompts across 5 job-based categories (hooks, story, controversy, platform formats, prompt chains)",
+    "A one-line 'why it works' for every prompt, not just the prompt text",
+    "Printable 7-Day Viral Challenge Tracker to log what you post and what performs",
+    "Denser reference format built for people who already read the free 21"
+  ],
+  "previewItems": [
+    {
+      "label": "A1: The Time-Stamp Hook",
+      "text": "\"Write a hook about [topic] that opens with a specific time or number (e.g. 'At 11:47pm I realized...' or '3 years and $40k later...').\""
+    },
+    {
+      "label": "C1: The Sacred Cow Takedown",
+      "text": "\"Name one piece of conventional wisdom about [topic] that experienced people secretly ignore, and explain why it survives anyway.\""
+    }
+  ],
+  "whatsInside": [
+    "Category A: Hook & Opening Line Formulas (10 prompts)",
+    "Category B: Story & Narrative Structures (10 prompts)",
+    "Category C: Controversy, Curiosity & Debate (10 prompts)",
+    "Category D: Platform-Native Formats for X, LinkedIn, TikTok, Instagram, YouTube Shorts, and email (10 prompts)",
+    "Category E: Advanced Prompt Chains for multi-step content systems (10 prompts)",
+    "Bonus: printable 7-Day Viral Challenge Tracker worksheet"
+  ],
+  "previewTips": [
+    {
+      "label": "Voice Match Chain",
+      "tip": "Paste 3 of your own past posts and ask ChatGPT to analyze your voice before writing anything new. Generic AI voice is the #1 giveaway, anchoring to real examples fixes it instantly."
+    },
+    {
+      "label": "Post-Mortem Chain",
+      "tip": "Paste one post that flopped and one that worked, side by side, and ask what structural difference likely caused the gap. Faster than any generic advice for learning your specific audience."
+    }
+  ],
+  "whoIsItFor": [
+    "Readers of the free '21 ChatGPT Prompts' post who want more without repeating the same 21",
+    "Creators and freelancers posting across multiple platforms who need format-specific prompts",
+    "Anyone who wants a repeatable system, not just a one-off list of prompts"
+  ],
+  "faq": [
+    {
+      "q": "Is this different from the free blog post?",
+      "a": "Yes. The free post has 21 prompts with full worked examples. This is 50 additional prompts in a denser reference format, organized by category, plus a printable tracker not covered in the blog post at all."
+    },
+    {
+      "q": "What format is the download?",
+      "a": "A single PDF, designed to be kept open on a second screen or printed. Every prompt is formatted so the exact text you paste into ChatGPT is visually separated from the explanation."
+    },
+    {
+      "q": "Do these work with Claude or Gemini too?",
+      "a": "Yes. The prompts are framework-based, not ChatGPT-specific syntax, so they work in any major chat AI."
+    },
+    {
+      "q": "Is there a refund policy?",
+      "a": "Since this is an instant digital download, all sales are final. If something's broken or missing, reach out and it'll get fixed."
+    }
+  ],
+  "seo": {
+    "title": "The Viral Prompt Vault: 50 ChatGPT Prompts for Viral Content (2026)",
+    "description": "50 more copy-paste ChatGPT prompts for viral social media content, organized by hook, story, controversy, platform format, and prompt chains, plus a printable 7-day challenge tracker.",
+    "schemaDescription": "A 9-page PDF with 50 categorized ChatGPT prompts for viral social media content and a printable 7-day content challenge tracker.",
+    "keywords": [
+      "viral ChatGPT prompts",
+      "ChatGPT prompts for social media",
+      "viral content prompts PDF",
+      "ChatGPT prompt pack",
+      "AI prompts for creators",
+      "viral hook prompts",
+      "content creation prompt vault",
+      "ChatGPT prompts for LinkedIn",
+      "ChatGPT prompts for TikTok",
+      "prompt engineering for social media 2026"
+    ]
+  }
+}
