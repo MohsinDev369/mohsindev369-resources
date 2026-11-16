@@ -2,7 +2,7 @@
 
 Content repo for [mohsindev369.dev/resources](https://mohsindev369.dev/resources).
 
-Each folder is one product. The actual product file lives on LemonSqueezy. This repo holds the page content, metadata, and checkout link only.
+Each folder is one product. The actual product file lives on Polar. This repo holds the page content, metadata, and checkout link only.
 
 ---
 
@@ -41,7 +41,7 @@ The site loads products via `raw.githubusercontent.com` (GitHub's CDN), not the 
   "tags": ["Tag1", "Tag2", "Tag3"],
   "featured": false,
   "order": 2,
-  "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/YOUR_CHECKOUT_ID",
+  "downloadUrl": "https://buy.polar.sh/YOUR_CHECKOUT_LINK_ID",
   "relatedBlog": "/blog/your-blog-slug",
   "images": ["cover.png", "page2.png", "page3.png"],
 
