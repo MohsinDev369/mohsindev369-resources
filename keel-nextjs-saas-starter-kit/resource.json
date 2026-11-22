@@ -9,7 +9,12 @@
   "tags": ["Next.js", "SaaS", "Starter Kit", "TypeScript", "Stripe", "Boilerplate"],
   "featured": true,
   "order": 0,
-  "downloadUrl": "https://mohsindev369.lemonsqueezy.com/checkout/buy/ed6daa39-cd43-4ba4-bf14-1103990c2977",
+  "downloadUrl": "https://buy.polar.sh/polar_cl_AwyQfUGzS7MIYjAQXalHdpanEgRkpGd2VgFo60xGyLI",
+  "checkoutOptions": [
+    { "label": "Solo", "price": "$199", "url": "https://buy.polar.sh/polar_cl_AwyQfUGzS7MIYjAQXalHdpanEgRkpGd2VgFo60xGyLI" },
+    { "label": "Studio", "price": "$349", "url": "https://buy.polar.sh/polar_cl_dsc29W6HXLunGRqMIS5lTvWxkuVbrYteMj9Nk1rIvVZ" },
+    { "label": "Agency", "price": "$899", "url": "https://buy.polar.sh/polar_cl_FSueeMUaJgR1EtBL0AxYDOFyfGWG1BS8m01iR0lWx3G" }
+  ],
   "images": ["preview-1.jpg"],
   "contentSummary": [
     "Auth: sessions + OAuth built in",
